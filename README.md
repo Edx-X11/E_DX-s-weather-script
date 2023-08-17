@@ -53,3 +53,5 @@ CD E_DX-s-weather-script //untested if it states diffrent please use that.//
 Run the Application:
 Run the Python script that launches the GUI or the weather checker app, depending on your code. Use the following command: 
 python3 weather_checker_gui.py or python3 weather_checker.py
+
+Ensure that you have a valid API key from OpenWeatherMap (or another weather API provider). This API key is required to fetch weather data. If you haven't done so, you need to sign up for an API key and replace the placeholder value in your code with the actual key.
